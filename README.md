@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://www.codewars.com/users/paszkevich/badges/large">
 
 <!--
 **paszkevi4/paszkevi4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
